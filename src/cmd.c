@@ -5,7 +5,7 @@
 
 #include <psp2/kernel/modulemgr.h>
 #include <stdbool.h>
-#include <vitasdk.h>
+#include <dolcesdk.h>
 
 #define CMD_PORT 1338
 #define ARG_MAX (20)

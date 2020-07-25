@@ -4,7 +4,7 @@
 #include "log.h"
 
 #include <ftpvita.h>
-#include <vitasdk.h>
+#include <dolcesdk.h>
 
 extern int run;
 

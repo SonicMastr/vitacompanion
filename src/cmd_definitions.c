@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
-#include <vitasdk.h>
+#include <dolcesdk.h>
 
 #define COUNT_OF(arr) (sizeof(arr) / sizeof(arr[0]))
 
